@@ -1,0 +1,21 @@
+1,Frozen,about Elsa,family
+2,Coco,Mexican,family
+3,Knifes out,a crime,mystery
+4,Too hot to handle,a beach,reality
+5,Love is blind,strangers meet ,reality
+6,Barbie,a princess,family
+7,Avatar ,blue people,SF
+8,Avatar the way of the water ,more blue people,SF
+9,Beauty and the beast,belle falls in love,romance
+10,It,a clown,horror
+11,Encanto,a magic house,family
+12,Spider-man,a spider,SF
+13,Black Panter,a redhead,SF
+14,The Circle,strangers meet online,reality
+15,Happiest Season,gay marriage,romance
+16,You,murder,mystery
+17,The Holiday,3 love stories,romance
+18,Puss in boots,a cat,family
+19,Team building,romanian,comedy
+20,Glass onion a knifes out story,crime,mystery
+21,Cable,asfgsr,comedy
